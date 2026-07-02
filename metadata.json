@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Sales Analyzer",
+  "description": "Enterprise-grade Sales Analytics Dashboard featuring a 10,000+ row dataset engine, predictive ML and Gemini-powered forecasting, and an interactive natural language Sales Agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

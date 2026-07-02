@@ -1,0 +1,20 @@
+# Enterprise SalesPilot AI Requirements
+# Target platform environment dependencies for the Python backup microservice reference implementation
+
+streamlit>=1.31.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=5.18.0
+prophet>=1.1.5
+google-generativeai>=0.3.0
+openai>=1.12.0
+whisper>=1.1.10
+elevenlabs>=0.2.27
+faiss-cpu>=1.7.4
+scikit-learn>=1.4.0
+jinja2>=3.1.3
+python-multipart>=0.0.9
+sqlite3-binary>=1.0.0
+pytest>=8.0.0
